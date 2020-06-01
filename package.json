@@ -1,0 +1,8 @@
+{
+  "name": "NoOne's Downloader",
+  "version": "1.0.0",
+  "description": "Downloads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Server/index.js",
+  }
